@@ -1,0 +1,19 @@
+{
+  "sport": "racing",
+  "league": "f1",
+  "date": "20260607",
+  "count": 1,
+  "games": [
+    {
+      "id": "600057434",
+      "name": "Monaco Grand Prix",
+      "shortName": "Monaco GP",
+      "date": "2026-06-05T11:30Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": null,
+      "away": null
+    }
+  ]
+}
