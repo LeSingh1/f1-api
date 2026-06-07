@@ -1,5 +1,7 @@
 # f1-api
 
+![CI](https://github.com/LeSingh1/f1-api/actions/workflows/test.yml/badge.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) ![node](https://img.shields.io/badge/node-%E2%89%A518-brightgreen.svg) ![dependencies](https://img.shields.io/badge/dependencies-0-success.svg)
+
 Unofficial Node client for ESPN's Formula 1 data. ESPN serves Formula 1 under
 `racing/f1`, and this wraps those endpoints with retry/timeout
 transport and parsers that return clean data.
