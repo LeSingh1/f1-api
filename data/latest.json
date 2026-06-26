@@ -1,14 +1,14 @@
 {
   "sport": "racing",
   "league": "f1",
-  "date": "20260614",
+  "date": "20260626",
   "count": 1,
   "games": [
     {
-      "id": "600057435",
-      "name": "MSC Cruises Barcelona-Catalunya Grand Prix",
-      "shortName": "MSC Cruises Barcelona-Catalunya GP",
-      "date": "2026-06-12T11:30Z",
+      "id": "600057436",
+      "name": "Lenovo Austrian Grand Prix",
+      "shortName": "Lenovo Austrian GP",
+      "date": "2026-06-26T11:30Z",
       "state": "post",
       "status": "Final",
       "completed": true,
