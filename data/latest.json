@@ -1,14 +1,14 @@
 {
   "sport": "racing",
   "league": "f1",
-  "date": "20260705",
+  "date": "20260717",
   "count": 1,
   "games": [
     {
-      "id": "600057437",
-      "name": "Pirelli British Grand Prix",
-      "shortName": "Pirelli British GP",
-      "date": "2026-07-03T11:30Z",
+      "id": "600057439",
+      "name": "Moët & Chandon Belgian Grand Prix",
+      "shortName": "Moët & Chandon Belgian GP",
+      "date": "2026-07-17T11:30Z",
       "state": "post",
       "status": "Final",
       "completed": true,
