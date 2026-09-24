@@ -1,14 +1,14 @@
 {
   "sport": "racing",
   "league": "f1",
-  "date": "20260913",
+  "date": "20260924",
   "count": 1,
   "games": [
     {
-      "id": "600057443",
-      "name": "Tag Heuer Spanish Grand Prix",
-      "shortName": "Tag Heuer Spanish GP",
-      "date": "2026-09-11T11:30Z",
+      "id": "600057444",
+      "name": "Qatar Airways Azerbaijan Grand Prix",
+      "shortName": "Qatar Airways Azerbaijan GP",
+      "date": "2026-09-24T08:30Z",
       "state": "post",
       "status": "Final",
       "completed": true,
