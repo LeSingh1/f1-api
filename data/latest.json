@@ -1,14 +1,14 @@
 {
   "sport": "racing",
   "league": "f1",
-  "date": "20260926",
+  "date": "20261002",
   "count": 1,
   "games": [
     {
-      "id": "600057444",
-      "name": "Qatar Airways Azerbaijan Grand Prix",
-      "shortName": "Qatar Airways Azerbaijan GP",
-      "date": "2026-09-24T08:30Z",
+      "id": "600060990",
+      "name": "Gulf Air Bahrain Grand Prix in Malaysia",
+      "shortName": "Gulf Air Bahrain GP in Malaysia",
+      "date": "2026-10-02T04:30Z",
       "state": "post",
       "status": "Final",
       "completed": true,
