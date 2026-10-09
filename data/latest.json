@@ -1,14 +1,14 @@
 {
   "sport": "racing",
   "league": "f1",
-  "date": "20261004",
+  "date": "20261009",
   "count": 1,
   "games": [
     {
-      "id": "600060990",
-      "name": "Gulf Air Bahrain Grand Prix in Malaysia",
-      "shortName": "Gulf Air Bahrain GP in Malaysia",
-      "date": "2026-10-02T04:30Z",
+      "id": "600057445",
+      "name": "Singapore Airlines Singapore Grand Prix",
+      "shortName": "Singapore Airlines Singapore GP",
+      "date": "2026-10-09T08:30Z",
       "state": "post",
       "status": "Final",
       "completed": true,
