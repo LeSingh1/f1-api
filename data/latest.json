@@ -1,7 +1,7 @@
 {
   "sport": "racing",
   "league": "f1",
-  "date": "20261030",
+  "date": "20261031",
   "count": 1,
   "games": [
     {
@@ -9,9 +9,9 @@
       "name": "Mexico City Grand Prix",
       "shortName": "Mexico City GP",
       "date": "2026-10-30T18:30Z",
-      "state": "pre",
-      "status": "10/30 - 2:30 PM EDT",
-      "completed": false,
+      "state": "post",
+      "status": "Final",
+      "completed": true,
       "home": null,
       "away": null
     }
