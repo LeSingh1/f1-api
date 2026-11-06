@@ -1,14 +1,14 @@
 {
   "sport": "racing",
   "league": "f1",
-  "date": "20261101",
+  "date": "20261106",
   "count": 1,
   "games": [
     {
-      "id": "600057447",
-      "name": "Mexico City Grand Prix",
-      "shortName": "Mexico City GP",
-      "date": "2026-10-30T18:30Z",
+      "id": "600057448",
+      "name": "MSC Cruises São Paulo Grand Prix",
+      "shortName": "MSC Cruises São Paulo GP",
+      "date": "2026-11-06T15:30Z",
       "state": "post",
       "status": "Final",
       "completed": true,
