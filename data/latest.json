@@ -1,17 +1,17 @@
 {
   "sport": "racing",
   "league": "f1",
-  "date": "20261108",
+  "date": "20261119",
   "count": 1,
   "games": [
     {
-      "id": "600057448",
-      "name": "MSC Cruises São Paulo Grand Prix",
-      "shortName": "MSC Cruises São Paulo GP",
-      "date": "2026-11-06T15:30Z",
-      "state": "post",
-      "status": "Final",
-      "completed": true,
+      "id": "600057449",
+      "name": "Heineken Las Vegas Grand Prix",
+      "shortName": "Heineken Las Vegas GP",
+      "date": "2026-11-20T00:30Z",
+      "state": "pre",
+      "status": "11/19 - 7:30 PM EST",
+      "completed": false,
       "home": null,
       "away": null
     }
